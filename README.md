@@ -46,7 +46,7 @@ Data Science, Machine Learning, Data Analysis, Business Intelligence
 🔍 **[Bank Term Deposit Campaign Optimization](https://github.com/Siskatho/Bank-Marketing-Campaign-for-Term-Deposits)**  
 Machine learning model to improve telemarketing campaign targeting and increase conversion efficiency.
 
-📊 **[Bank Customer Churn Prediction](https://drive.google.com/file/d/1TEef9n1Z0fbqhowN8fROyOlx-_0GVXIo/view)**  
+📊 **[Bank Customer Churn Prediction](https://github.com/Siskatho/Bank-Customer-Churn-Prediction-App)**  
 Built a churn prediction model using EDA, feature engineering, and class imbalance handling.
 
 📈 **[Consumer Behavior Trend Analysis (E-Commerce)](https://drive.google.com/file/d/1TEef9n1Z0fbqhowN8fROyOlx-_0GVXIo/view)**  
